@@ -9,7 +9,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server",
-    "start:dev": "nodemon server"
+    "start:dev": "nodemon server",
+    "start:pm2": "pm2 start server/index.js",
+    "stop:pm2": "pm2 stop server/index.js"
   },
   "keywords": [],
   "author": "",
