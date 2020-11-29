@@ -1,3 +1,8 @@
-.row{
+.row {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
 
+.BackColor-em {
+  background-color: rgb(247, 247, 247);
 }
