@@ -2,6 +2,11 @@
 
 #service4 {
   background-color: rgb(247, 247, 247);
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+#service1 {
+  margin-bottom: 60px;
 }
 #footer {
   background-color: rgb(247, 247, 247);
